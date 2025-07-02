@@ -1,0 +1,13 @@
+id: fire
+name: 火焰检测
+version: 1.0.4
+author: ywj
+icon: app.png
+desc: 火焰检测
+files:
+  - app.png
+  - app.yaml
+  - main.py
+  - model_119975.cvimodel
+  - model_119975.mud
+  - ret.png
